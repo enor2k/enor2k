@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enor</h1>
 <h3 align="center">A passionate backend developer from France</h3>
 
-<img src="https://tenor.com/view/hello-there-private-from-penguins-of-madagascar-hi-wave-hey-there-gif-16043627" alt="Hello GIF"> 
+<img src="https://tenor.com/view/hello-there-private-from-penguins-of-madagascar-hi-wave-hey-there-gif-16043627" alt="Hello GIF" width="250" height="250"/> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
