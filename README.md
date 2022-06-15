@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enor</h1>
 <h3 align="center">A passionate backend developer from France</h3>
 
-<img src="https://tenor.com/view/hello-there-private-from-penguins-of-madagascar-hi-wave-hey-there-gif-16043627" alt="Hello GIF" width="250" height="250"/>
-<iframe src="https://giphy.com/embed/XO8RMtRaK73isIt0i2" width="480" height="297" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ProBItExchange-dog-hello-hi-XO8RMtRaK73isIt0i2">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif" alt="Hello GIF" width="250" height="250"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
