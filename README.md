@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enor</h1>
 <h3 align="center">A passionate backend developer from France</h3>
 
-<img src="https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif" alt="Hello GIF" width="250" height="250"/>
+<img src="https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif" alt="Hello GIF"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
