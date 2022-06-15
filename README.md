@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enor</h1>
 <h3 align="center">A passionate backend developer from France</h3>
 
-<div class="tenor-gif-embed" data-postid="16043627" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hello-there-private-from-penguins-of-madagascar-hi-wave-hey-there-gif-16043627">Hello There Private From Penguins Of Madagascar GIF</a>from <a href="https://tenor.com/search/hello+there-gifs">Hello There GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/view/hello-there-private-from-penguins-of-madagascar-hi-wave-hey-there-gif-16043627" alt="Hello GIF"> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
